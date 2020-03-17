@@ -1,6 +1,7 @@
 # specific files
 data/*-users.npy
 data-subset/*-users.npy
+data-subset/bscores-raw.txt
 CAF-analysis-unpatched.ipynb
 
 # Byte-compiled / optimized / DLL files
