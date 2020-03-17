@@ -1,1 +1,0 @@
-<object data="CAF-analysis-patched.html"></object>
