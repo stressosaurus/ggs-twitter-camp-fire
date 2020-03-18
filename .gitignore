@@ -2,8 +2,9 @@
 data/*-users.npy
 data-subset/*-users.npy
 data-subset/bscores-raw.txt
-CAF-analysis-unpatched.ipynb
+CAF-analysis-unpatched.*
 figures/*-unpatched*
+docs/figure/*-unpatched*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
